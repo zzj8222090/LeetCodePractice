@@ -1,2 +1,2 @@
 # LeetCodePractice
-Some LeetCode problems practice.
+Some LeetCode problems practicing code.
